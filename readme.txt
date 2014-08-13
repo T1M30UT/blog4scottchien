@@ -1,1 +1,0 @@
-It's a blog for scottchien.com
